@@ -9,6 +9,7 @@
 - [arkenfox user.js](https://github.com/arkenfox/user.js/) - Harden Firefox
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - Content blocker
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) - Removes tracking elements from URLs
+- [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) - Multi Account
 - [User-Agent Switcher and Manager](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) - As its name
 - [Cookie Quick Manager](https://addons.mozilla.org/en-US/firefox/addon/cookie-quick-manager/) - Manage cookies
 - [FastForward](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/) - Bypass "shorteners" URLs
