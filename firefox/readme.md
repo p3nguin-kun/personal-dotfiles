@@ -1,4 +1,4 @@
-# Firefox
+# Firefox config
 
 # Files
 - `chrome` - firefox css
@@ -16,3 +16,4 @@
 - [Web Archives](https://addons.mozilla.org/en-US/firefox/addon/view-page-archive/) - View archived or cached versions of web pages
 - [Imagus](https://addons.mozilla.org/en-US/firefox/addon/imagus/) - Preview images/videos
 - [Flagfox](https://addons.mozilla.org/en-US/firefox/addon/flagfox/) - Display the location of the current website's server
+- [Old Reddit Redirect](https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/) - As its name
