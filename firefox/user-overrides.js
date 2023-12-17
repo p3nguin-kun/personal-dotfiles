@@ -1,5 +1,5 @@
 // Enable WebGL
-user_pref("webgl.disabled", true);
+user_pref("webgl.disabled", false);
 
 // Embed video playback fix
 user_pref("network.http.referer.XOriginPolicy", 0);
