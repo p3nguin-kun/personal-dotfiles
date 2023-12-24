@@ -30,18 +30,6 @@
       "default": "󰋔",
       "active": "󰣐",
     },
-    "persistent_workspaces": {
-      "1": [],
-      "2": [],
-      "3": [],
-      "4": [],
-      "5": [],
-      "6": [],
-      "7": [],
-      "8": [],
-      "9": [],
-      "10": []
-    }
   },
   "tray": {
     "icon-size": 16,
@@ -82,7 +70,7 @@
   },
   "pulseaudio": {
     "format": "{icon} {volume}",
-    "tooltip": false,
+    "tooltip": true,
     "format-muted": "󰖁 Muted",
     "on-click": "~/.config/hypr/bin/volume --toggle",
     "on-click-right": "pavucontrol",
