@@ -79,6 +79,7 @@
       <property name="show-button-title" type="bool" value="true"/>
       <property name="button-title" type="string" value="Menu"/>
       <property name="recent" type="array">
+        <value type="string" value="thunar.desktop"/>
         <value type="string" value="xfce4-power-manager-settings.desktop"/>
       </property>
     </property>
