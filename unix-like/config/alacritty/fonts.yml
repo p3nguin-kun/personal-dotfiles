@@ -1,9 +1,9 @@
 font:
   offset:
     x: 0
-    y: 0
+    y: 2
   normal:
-    family: SF Mono
+    family: Pragmata Pro
     style: Regular
 
   bold:
