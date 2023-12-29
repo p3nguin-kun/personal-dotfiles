@@ -1,2 +1,0 @@
-# wallpapers
-my wallpapers repo
