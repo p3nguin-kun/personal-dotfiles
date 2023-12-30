@@ -1,8 +1,8 @@
 [font]
-size = 11
+size = 12
 
 [font.normal]
-family = "SF Mono"
+family = "Pragmata Pro"
 style = "Regular"
 
 [font.bold]
@@ -16,4 +16,4 @@ style = "Italic"
 
 [font.offset]
 x = 0
-y = 0
+y = 2
