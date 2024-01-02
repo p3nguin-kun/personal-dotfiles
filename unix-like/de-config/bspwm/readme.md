@@ -4,7 +4,7 @@
 ![img](scrot.png)
 
 # Info
-- Font: Pragmatasevka (or Pragmata Pro)
+- Font: Cascadia Code
 - GTK: My own
 - Terminal: Alacritty
 - Bar: Polybar
