@@ -4,11 +4,11 @@
 - `chrome` - firefox css
 - `user.js` - basiclly, it is penguinFox's default user.js file
 - `user-overrides.js` - arkenfox overrides file
+- `ublock-backup.txt` - ublock origin config file
 
 # Extensions/Other configs
 - [arkenfox user.js](https://github.com/arkenfox/user.js/) - Harden Firefox
 - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - Content blocker
-- [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) - Removes tracking elements from URLs
 - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) - Multi Account
 - [User-Agent Switcher and Manager](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) - As its name
 - [Cookie Quick Manager](https://addons.mozilla.org/en-US/firefox/addon/cookie-quick-manager/) - Manage cookies
