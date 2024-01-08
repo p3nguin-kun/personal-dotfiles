@@ -4,7 +4,6 @@
 - `chrome` - firefox css
 - `user.js` - basiclly, it is penguinFox's default user.js file
 - `user-overrides.js` - arkenfox overrides file
-- `ublock-backup.txt` - ublock origin config file
 
 # Extensions/Other configs
 - [arkenfox user.js](https://github.com/arkenfox/user.js/) - Harden Firefox
